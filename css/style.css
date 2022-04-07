@@ -9588,12 +9588,12 @@ box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.2
   }
   .spo-img{
     width: 25vh;
-    height:25vh;
+    height:20vh;
 
 width: 10px;
 height: 10px;
 z-index: 2;
-transform: translateX(-35%);
+transform: translateX(-40%);
 }
 }
 .spo-img{
