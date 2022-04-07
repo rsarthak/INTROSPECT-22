@@ -9587,13 +9587,13 @@ box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.2
     margin-right: 50px;
   }
   .spo-img{
-    width: 35vh;
-    height:35vh;
+    width: 25vh;
+    height:25vh;
 
 width: 10px;
 height: 10px;
 z-index: 2;
-transform: translateX(-27%);
+transform: translateX(-35%);
 }
 }
 .spo-img{
