@@ -9586,6 +9586,14 @@ box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.2
     margin-top: 75px;
     margin-right: 60px;
   }
+	.op{
+    margin-left: 5px;
+    margin-top: 3px;
+    margin-right: 90px;
+    z-index:2;
+    font-size: 12px;
+    transform: translateX(-400%);
+  }
   .spo-img{
     width: 25vh;
     height:20vh;
@@ -9605,4 +9613,8 @@ transform: translateX(-40%);
 }
 .sp{
   margin-top: 140px;
+}
+.op{
+  margin-left: 475px;
+  margin-top: 30px;
 }
